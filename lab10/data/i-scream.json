@@ -46,7 +46,19 @@
         "milk caramel flakes",
         "MnMs"
       ],
-      "image": "strawberry-sprinkle.svg"    }
+      "image": "ice-cream-xtra1.svg"    
+    },
+        {
+      "name": "Complan Coffee",
+      "calories": 302,
+      "type": "Sorbet",
+      "ingredients": [
+        "Complan Powder",
+        "Condensed Milk",
+        "Gummy bears"
+      ],
+      "image": "ice-cream-xtra2.svg"    
+    }
   ]
 }
 
